@@ -33,7 +33,7 @@
 
 .nishyan {
   margin-bottom: 0 !important;
-  font-size: small;
+  font-size: medium;
   color: white !important;
 }
 
@@ -127,4 +127,9 @@
 /* Handle when it's grabbing (clicking on it) */
 ::-webkit-scrollbar-thumb:active {
   background-color: #777;
+}
+
+.dropNav {
+  background-color: rgba(255, 255, 255, 0) !important;
+  border-color: rgba(255, 255, 255, 0) !important;
 }

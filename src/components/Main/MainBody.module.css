@@ -1,0 +1,14 @@
+.container {
+  background-color: rgba(231, 227, 227, 0.338);
+  padding: 10px;
+}
+
+.search {
+  border-radius: 5px;
+  border-color: #d9d9d9;
+  width: 25%;
+}
+
+.borderRemove {
+  border-color: rgba(255, 255, 255, 0) !important;
+}

@@ -1,0 +1,130 @@
+.navstyle {
+  background-color: #1e2640;
+  color: #cfc7c7;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.navwidth {
+  background-color: #1e2640;
+  width: auto;
+  padding: 10px;
+  height: 100vh;
+  margin-bottom: 10px;
+}
+
+.OffcanvasHeaderStyle {
+  background-color: #1e2640;
+  color: #cfc7c7;
+  padding: 3% !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navBrandflex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.nishyan {
+  margin-bottom: 0 !important;
+  font-size: small;
+  color: white !important;
+}
+
+.visit {
+  margin-bottom: 0 !important;
+  font-size: small;
+  color: #c8c4c4;
+  text-decoration: underline;
+}
+
+.svgfill svg path {
+  fill: grey;
+}
+
+.navtoggle {
+  font-size: medium;
+  color: grey;
+  text-decoration: none;
+  padding: 4px;
+}
+
+.navtoggle:hover {
+  border-radius: 4px;
+  background-color: rgba(128, 128, 128, 0.546);
+}
+
+.navitem:hover {
+  background-color: rgba(128, 128, 128, 0.167);
+  border-radius: 5px;
+  padding-left: 3px;
+  color: white;
+  fill: white;
+}
+
+.navitem:hover svg path {
+  fill: white;
+}
+
+.navbottom {
+  background-color: #353c53;
+  border-radius: 5px;
+  width: 100%;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbottomwallet {
+  background-color: #1d243c52;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+
+.avlcredit {
+  margin-bottom: 0 !important;
+  font-size: x-small;
+  color: rgb(212, 211, 211) !important;
+}
+
+.creditamt {
+  margin-bottom: 0 !important;
+  font-size: small;
+  color: white !important;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 6px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 5px;
+}
+
+/* Handle when it's grabbing (clicking on it) */
+::-webkit-scrollbar-thumb:active {
+  background-color: #777;
+}

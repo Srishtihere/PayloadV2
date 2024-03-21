@@ -12,9 +12,9 @@ This is a dummy dashboard UI for a store named Nishyan.
 
 ### Laptop Device
 
-<img src="src/Assets/screenshots/desktop-1.png" height='500px'>
+<img src="src/assets/screenshots/desktop-2.png" height='500px'>
 
-<img src="src/Assets/screenshots/desktop-2.png" height='500px'>
+<img src="src/assets/screenshots/desktop-1.png" height='500px'>
 
 ## Tech/ Framework Used
 
